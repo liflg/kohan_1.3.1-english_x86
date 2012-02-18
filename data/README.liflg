@@ -1,0 +1,36 @@
+
+	       Kohan: Immortal Sovereigns: English version 1.3.1
+	           (http://www.lokigames.com/products/kohan/)
+
+========================================
+
+ABOUT
+====
+
+	This is an updated installer for the Loki version of Kohan:
+	Immortal Sovereigns.
+	It contains the most recent patch and some workarounds to 
+	get this game working with current Linux distributions.
+
+SYSTEM REQUIREMENTS
+==============
+
+	- The Loki Kohan: Immortal Sovereigns disc
+
+RUNNING THE GAME
+============
+
+	Run "kohan.dynamic.sh" or "kohan.sh" to play.
+
+NOTES
+====
+
+	- Loki-Compat-Libs are from http://www.swanson.ukfsn.org/loki/
+
+TECHNICAL SUPPORT
+=============
+
+	Website: http://liflg.org/
+	Forum:   http://liflg.org/forum/
+
+The Linux Installers for Linux Gamers Team
